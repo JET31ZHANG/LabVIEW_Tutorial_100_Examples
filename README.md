@@ -1,6 +1,6 @@
 # LabVIEW_Tutorial_100_Examples
 
-《LabVIEW入门与实战开发100例》 / 严雨，刘艳伟编著
+《LabVIEW入门与实战开发100例》 (第四版) / 严雨，刘艳伟编著
 
 - 基础篇(第1~10章)介绍了LabVIEW程序设计所需的基础知识，
 
